@@ -2,7 +2,6 @@
 
 # Author: Bojidar Georgiev
 # bobssy@gmail.com
-# GPL. v3.0
 
 MAX_CASCADES = 600
 MAX_COLS = 20

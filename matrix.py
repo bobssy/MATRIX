@@ -1,7 +1,7 @@
 #! /usr/bin/env python3
 
-# Author: Joao S. O. Bueno
-# gwidion@gmail.com
+# Author: Bojidar Georgiev
+# bobssy@gmail.com
 # GPL. v3.0
 
 MAX_CASCADES = 600

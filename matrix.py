@@ -110,12 +110,12 @@ def main():
         elapsed_time = time.time() - start_time
 
         if elapsed_time >= 10 and show_first_message:
-            display_message("THE TEEO HAS YOU....")
+            display_message("THE MATRIX HAS YOU....")
             message_timeout_1 = time.time() + first_message_duration
             show_first_message = False  # Показва само веднъж
 
         if elapsed_time >= 20 and show_second_message:
-            display_message("FOLLOW THE AJAY FOR INSTRUCTIONS")
+            display_message("FOLLOW THE ROAD TO LEFKADA")
             message_timeout_2 = time.time() + second_message_duration
             show_second_message = False  # Показва само веднъж
 
